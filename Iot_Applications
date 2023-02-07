@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="A web page about IoT Applications" />
+    <meta name="author" content="Disha" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT Applications</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>SIT209 - IoT Applications</h1>
+    <h3>By - Disha</h3>
+    <h3>2110994847</h3>
+    <p>My name is Disha. I am currently pursuing Software engineering at Chitkara University in association with Deakin University. I am in the 4th semester 
+      The different units in our semester are:</p>
+      <ul>
+        <li> SIT315 Programming Paradigms</li>
+        <li> SIT202 - Networks and coomunication</li>
+        <li> SIT209 - IoT Applications</li>
+      </ul>  
+    
+    <h2>IoT Applications</h2>
+    <p1> In first activity we refreshed our knowledge on what is IoT applications, what are the main features and its examples. 
+        IoT applications are used to analyse sensor data in cloud and machine learning algorithm is employed. The features needed are artificial in telligence, connectivity, data processing and user interface. 
+        Some of the examples includes smart home, smart phone, smart watch, automated vending machines etc.
+ </p1>
+
+    <h2> Smart Building </h2>
+    <p2> In this activity we thought of some smart building scenarios including smart parking, temperature control, air quality monitoring system, fire detection, earthquake detection. The main features needed for the smart building would be eco efficiency, high security and automated processes.  </p2>
+    <h2> Control Interface </h2>
+    <p3> In the control interface we selected the smart parking system with high security camera system, database to make a record of residents etc. Basically, we thought of AI assisted parking management, automated temperature control, fire and smoke detection and car lift. This control interface would be used by the residents of the building who parks the car in the building </p3>
+    <h4> Some of the Iot applications are: </h4>
+    <ul>
+        <li> Smartphone app</li>
+        <li>Fitness tracker</li>
+        <li>Biometric security system</li>
+        <li>Disaster management </li>
+        <li>Industrial automation </li>
+        <li>Smart watch</li>
+        <li>Self Driving cars</li>
+      </ul>   
+</body>
+</html>
